@@ -25,3 +25,16 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+por problemaq con la ultima version de ng charts se usa la version estable:
+
+
+npm install chart.js@2.9.3 --save
+npm install ng2-charts@2.2.3 --save
+
+
+pasos>
+https://valor-software.com/ng2-charts/#/GeneralInfo
+
